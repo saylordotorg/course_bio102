@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Heredity and Inheritance** <span id="2"></span> 
 *We have come to understand that the relationship between genotype and
 phenotype is not always as simple as determining which genes are

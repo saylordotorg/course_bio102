@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Speciation** <span id="5"></span> 
 *When certain events occur in history, a population of organisms will
 undergo what is called “speciation,” a process in which two species

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Mendelian Genetics** <span id="1"></span> 
 *We will begin this course by taking a look at how certain features of
 an organism, such as hair color or bone length, get passed on from

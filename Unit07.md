@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Population Ecology** <span id="7"></span> 
 *We will now learn about ecology, the study of the interactions between
 organisms and their environments.  Ecology is not the same as

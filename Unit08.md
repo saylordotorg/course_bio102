@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Ecosystems** <span id="8"></span> 
 *The term “ecosystem” is all-encompassing.  It can be used to describe
 all the living and non-living things in an environment and is therefore

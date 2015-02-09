@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO102: Introduction to Evolutionary Biology and Ecology"
+course_description: "An examination of how organisms evolve over time, with particular emphasis on natural selection, evolution, speciation, phylogeny and taxonomy, and aspects of genetics and inheritance. Also explores the study of population ecology and ecosystems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Darwinian Natural Selection** <span id="3"></span> 
 *This unit focuses on the idea of evolution through natural selection as
 first proposed by Charles Darwin.  He developed this theory after he
