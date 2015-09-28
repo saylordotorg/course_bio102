@@ -146,3 +146,4 @@ final exam.
 - [Unit 7](https://legacy.saylor.org/bio102/Unit07/)
 - [Unit 8](https://legacy.saylor.org/bio102/Unit08/)
 - [Unit 9](https://legacy.saylor.org/bio102/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO102/BIO102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO102/BIO102-FinalExam-Answers.html)
