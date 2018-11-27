@@ -142,12 +142,12 @@ X-inactivation** <span id="2.5"></span> 
 **Unit 2 Review and Assessment** <span id="2.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Review”**
     Link: The Saylor Foundation’s [“Unit
-    2 Review”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_2_Review_FINAL.pdf) (PDF)  
+    2 Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_2_Review_FINAL.pdf) (PDF)  
       
      Instructions: Please click on the link above and work through the
     problems.  When you are finished, check your work against The Saylor
     Foundation’s [“Unit 2 Review Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_2_Review_ANSWER_KEY_FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_2_Review_ANSWER_KEY_FINAL.pdf) (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
 

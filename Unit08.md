@@ -181,7 +181,7 @@ Pyramid** <span id="8.2"></span> 
 **8.4 Marine Ecosystems** <span id="8.4"></span> 
 -   **Web Media: Chris Huh’s “Oceanic Divisions”**
     Link: Chris Huh’s [“Oceanic
-    Divisions”](http://www.saylor.org/site/wp-content/uploads/2012/06/800px-Oceanic_divisions.svg_.png) (PNG)  
+    Divisions”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/800px-Oceanic_divisions.svg_.png) (PNG)  
       
      Instructions: This diagram of marine zones will complement the
     description you read in the material in subunit 8.3.  
@@ -194,7 +194,7 @@ Pyramid** <span id="8.2"></span> 
 -   **Reading: NOAA Ocean Explorer: Steve Gaines and Satie Airame’s
     “Upwelling”**
     Link: NOAA Ocean Explorer: Steve Gaines and Satie Airame’s
-    [“Upwelling”](http://www.saylor.org/site/wp-content/uploads/2012/09/8.4-Upwelling.pdf) (PDF)  
+    [“Upwelling”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/8.4-Upwelling.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the section
     titled “Effects of Upwelling.”  Study the diagrams to understand
@@ -226,13 +226,13 @@ Pyramid** <span id="8.2"></span> 
 **Unit 8 Review and Assessment** <span id="8.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 8 Review”**
     Link: The Saylor Foundation’s [“Unit 8
-    Review”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_8_Review-FINAL.pdf)
+    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_8_Review-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through the
     questions. When you are finished, check your work against The Saylor
     Foundation’s [“Unit 8 Review Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_8_Review-ANSWER-KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_8_Review-ANSWER-KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.

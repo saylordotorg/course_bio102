@@ -213,13 +213,13 @@ id="4.4"></span> 
 **Unit 4 Review and Assessment** <span id="4.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Review”**
     Link: The Saylor Foundation’s [“Unit 4
-    Review”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_4_Review-FINAL.pdf)
+    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_4_Review-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through the
     questions. When you are finished, check your work against The Saylor
     Foundation’s [“Unit 4 Review Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_4_Review_ANSWER_KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_4_Review_ANSWER_KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.  
