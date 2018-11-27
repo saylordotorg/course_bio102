@@ -150,7 +150,7 @@ were slow in human terms.*
 -   **Reading: The Saylor Foundation’s “Uniformitarianism versus
     Punctuated Equilibrium”**
     Link: The Saylor Foundation’s [“Uniformitarianism versus Punctuated
-    Equilibrium”](http://www.saylor.org/site/wp-content/uploads/2012/09/5.4.2-Uniformitarianism-versus-Punctuated-Equilibrium.pdf) (PDF)  
+    Equilibrium”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/5.4.2-Uniformitarianism-versus-Punctuated-Equilibrium.pdf) (PDF)  
       
      Instructions: Read this article, which discusses the main
     differences between the two leading hypotheses of mode and tempo of
@@ -163,13 +163,13 @@ were slow in human terms.*
 **Unit 5 Review and Assessment** <span id="5.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Review”**
     Link: The Saylor Foundation’s [“Unit 5
-    Review”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_5_Review-FINAL.pdf)
+    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_5_Review-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through the
     questions. When you are finished, check your work against The Saylor
     Foundation’s [“Unit 5 Review Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO102_Unit_5_Review_ANSWER_KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_5_Review_ANSWER_KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
