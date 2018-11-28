@@ -92,7 +92,7 @@ Upon successful completion of this unit, the student will be able to:
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO102-6.1.1-The-Origin-of-Life-John-Kimball.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO102-6.1.1-The-Origin-of-Life-John-Kimball.epub)  
       
      Instructions: Please click on the link above and read the section
     titled “Abiotic Synthesis of Organic Molecules” and all its
@@ -131,7 +131,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Endosymbiotic Theory”**
     Link: The Saylor Foundation’s [“Endosymbiotic
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/6.1.2-The-Endosymbiotic-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/6.1.2-The-Endosymbiotic-Theory.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the entire
     article.  
@@ -570,13 +570,13 @@ id="6.8"></span> 
 **Unit 6 Review and Assessment** <span id="6.9"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 6 Review”**
     Link: The Saylor Foundation’s [“Unit 6
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_6_Review-FINAL.pdf)
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_6_Review-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through all
     of the questions. When you are finished, check your work against The
     Saylor Foundation’s [“Unit 6 Review Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_6_Review-ANSWER-KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_6_Review-ANSWER-KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
