@@ -260,7 +260,7 @@ id="7.4.1"></span> 
 -   **Reading: The Saylor Foundation’s “Symbiosis”**
 
     Link: The Saylor Foundation’s
-    [“Symbiosis](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.4.1-Symbiosis.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.4.1-Symbiosis.pdf) (PDF)  
+    [“Symbiosis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/7.4.1-Symbiosis.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/7.4.1-Symbiosis.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the entire
     article, which discusses symbiosis in a coral reef.  This reading
@@ -310,13 +310,13 @@ id="7.4.1"></span> 
 **Unit 7 Review and Assessment** <span id="7.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 7 Review”**
     Link: The Saylor Foundation’s [“Unit 7
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_7_Review-FINAL.pdf)
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_7_Review-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through the
     questions. When you are finished, check your work against The Saylor
     Foundation’s [“Unit 7 Review Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_7_Review-ANSWER-KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_7_Review-ANSWER-KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.

@@ -245,7 +245,7 @@ id="3.2.1"></span> 
 
 -   **Reading: The Saylor Foundation’s “Sexual Selection”**
     Link: The Saylor Foundation’s [“Sexual
-    Selection”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/3.2.5-Sexual-Selection.pdf) (PDF)  
+    Selection”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/3.2.5-Sexual-Selection.pdf) (PDF)  
       
      Instructions: Please click on link above and read the entire
     article.  
@@ -321,7 +321,7 @@ id="3.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Darwin’s Missing Puzzle
     Pieces”**
     Link: The Saylor Foundation’s [“Darwin’s Missing Puzzle
-    Pieces”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/3.4-Darwin’s-Missing-Puzzle-Pieces.pdf) (PDF)  
+    Pieces”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/3.4-Darwin’s-Missing-Puzzle-Pieces.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this article.
      As you read, think about a time period that you would like to know
@@ -336,7 +336,7 @@ id="3.2.1"></span> 
 
 -   **Reading: The Saylor Foundation’s “Evolution in Everyday Life”**
     Link: The Saylor Foundation’s [“Evolution in Everyday
-    Life”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/3.4-Evolution-in-Everyday-Life.pdf) (PDF)  
+    Life”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/3.4-Evolution-in-Everyday-Life.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the article. 
     This article will give you a good example of how evolution impacts
@@ -465,13 +465,13 @@ id="3.2.1"></span> 
 **Unit 3 Review and Assessment** <span id="3.5"></span> 
 -   **Reading: The Saylor Foundation’s “Unit 3 Review”**
     Link: The Saylor Foundation’s [“Unit 3
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_3_Review_FINAL.pdf)
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_3_Review_FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and work through the
     questions. When you are finished, check your work against The Saylor
     Foundation’s [“Unit 3 Review Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO102_Unit_3_Review_ANSWER_KEY-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO102_Unit_3_Review_ANSWER_KEY-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 30 minutes.

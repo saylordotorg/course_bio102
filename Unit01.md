@@ -186,7 +186,7 @@ Assortment** <span id="1.2"></span> 
 
 -   **Reading: The Saylor Foundation’s “Punnett Square”**
     Link: The Saylor Foundation’s [“Punnett
-    Square”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/BIO102-1.5-PunnettSquares-UFINAL.pdf) (PDF)  
+    Square”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/BIO102-1.5-PunnettSquares-UFINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the article,
     which will provide you with a solid overview of Reginald Punnett and
@@ -234,7 +234,7 @@ Assortment** <span id="1.2"></span> 
 **1.3.1 Backcross** <span id="1.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Genetic Backcross”**
     Link: The Saylor Foundation’s [“Genetic
-    Backcross”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.5.1-Genetic-Backcross.pdf) (PDF)  
+    Backcross”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/1.5.1-Genetic-Backcross.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this article
     on genetic backcrossing and the example of the American Chestnut.  
@@ -253,7 +253,7 @@ F<sub>1 </sub>individual and one of its homozygous parents. *
 
 -   **Reading: The Saylor Foundation’s “Test Cross”**
     Link: The Saylor Foundation’s [“Test
-    Cross”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.5.2-Test-Cross.pdf) (PDF)  
+    Cross”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/1.5.2-Test-Cross.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this article
     on the genetic test cross.  
@@ -278,12 +278,12 @@ F<sub>1 </sub>individual and one of its homozygous parents. *
 **Unit 1 Review and Assessment** <span id="1.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Review”**
     Link: The Saylor Foundation’s [“Unit 1
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/BIO102_Unit_1_Review-FINAL.pdf) (PDF)  
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/BIO102_Unit_1_Review-FINAL.pdf) (PDF)  
       
      Instructions: Please click on the link above and work through the
     problems.  When you are finished, check your work against The Saylor
     Foundation’s [“Unit 1 Review Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/BIO102_Unit_1_Review_ANSWER_KEY-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/BIO102_Unit_1_Review_ANSWER_KEY-FINAL.pdf) (PDF).  
       
      Completing this assessment should take approximately 30 minutes.
 
